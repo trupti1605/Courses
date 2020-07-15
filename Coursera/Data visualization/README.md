@@ -28,3 +28,7 @@ In this course we will learn how to create meaningFul,effective,and aestheticall
 - 6) Maps with Markers
 - 7) Choropleth Maps 
 - 8) Visualizing Geospatial Data
+
+### Peer Graded assignment
+
+
