@@ -1,18 +1,19 @@
 ### Objective:-
 This repository contains quizzes and assignment for the course of Tools for Data Science. 
 
--### Week 1 :- Introducing skills Network Labs
+- ### Week 1 :- Introducing skills Network Labs
 
-             - Introducing Jupyter notebooks
+              - Introducing Jupyter notebooks
 
-             - Quiz
--### Week 2 :- Introducing Zeepelin Notebook 
+              - Quiz
 
-             - What is Rstudio IDE? 
+- ### Week 2 :- Introducing Zeepelin Notebook 
 
-             - Quiz
-
--### Week 3 :- What is IBM Watson Studio? 
+              - What is Rstudio IDE? 
  
-             - Project 
+              - Quiz
+ 
+- ### Week 3 :- What is IBM Watson Studio? 
+ 
+              - Project 
   
