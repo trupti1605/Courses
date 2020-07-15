@@ -63,5 +63,6 @@ This repository contains quizzes and assignment for course Machine learning with
 
  - Peer Graded assignment :-
 
+https://github.com/trupti1605/Machine-learning-with-python-
 This repository contains peer graded assignment.
    
