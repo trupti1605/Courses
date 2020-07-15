@@ -3,9 +3,9 @@
 In this course of Python for data science and AI contains essential knowledge about Python that is essential for data science. 
 
 - Week 1
-  1)Types 
-  2)Expressions and Variables
-  3)String Operation
+   1)Types 
+   2)Expressions and Variables
+   3)String Operation
 
 - Week 2 
   1)List and Tuples
