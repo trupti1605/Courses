@@ -42,4 +42,6 @@ In this course of Python for data science and AI contains essential knowledge ab
 
 ### Peer Graded assignment 
 
+https://github.com/trupti1605/Python-for-data-science-and-ai-
+
 This repository contains the notebook for the peer graded assignment. 
