@@ -7,4 +7,4 @@ In this course we will learn how big data integration and processing works.This 
 - Week 3 :- Information Integration 
 - Week 4 :- Big data pipelines and High level operation for Big data processing 
 - Week 5 :- Programming in the Spark Ecosystem 
-- Week 6 :- 
+- Week 6 :- Learn By doing :-Putting spark MongoDB and Spark to work
