@@ -15,3 +15,8 @@ This repository contains quizzes and assignment for course Data analysis with py
 
 - Week 6:- Houses sales in king county, USA 
            Peer graded assignment 
+
+### Peer Graded assignment :-
+
+
+This repository contains peer graded assignment under course Data analysis with python.
