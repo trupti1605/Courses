@@ -4,6 +4,7 @@ In this repositorycontains quizzes,notes and assignment for course Data science 
 ### Modules 
 
 - Week 1 :-
+
           - From Problem to Approach
           - Business Understanding 
           - Analytical Aaproach 
@@ -13,6 +14,7 @@ In this repositorycontains quizzes,notes and assignment for course Data science 
           - Data Collection
 
 - Week 2 :-
+
           - From Understanding to Preparation 
           - Data Understanding 
           - Data Preparation
@@ -21,7 +23,8 @@ In this repositorycontains quizzes,notes and assignment for course Data science 
           - Data Modeling 
           - Data Evaluation 
 
-- Week 3  
+- Week 3 :-
+
           - From Deployment to Feedback 
           - Deployment 
           - Feedback 
