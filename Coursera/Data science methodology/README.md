@@ -16,15 +16,15 @@ In this repositorycontains quizzes,notes and assignment for course Data science 
 - Week 2 :-
 
           - From Understanding to Preparation 
-          - Data Understanding 
-          - Data Preparation
-
+               - Data Understanding 
+               - Data Preparation
+ 
           - From Modeling to Evaluation 
-          - Data Modeling 
-          - Data Evaluation 
+               - Data Modeling 
+               - Data Evaluation 
 
 - Week 3 :-
 
           - From Deployment to Feedback 
-          - Deployment 
-          - Feedback 
+               - Deployment 
+               - Feedback 
