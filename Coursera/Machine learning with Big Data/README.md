@@ -1,27 +1,21 @@
  ### Objective 
-This repository contains quizzes and assignment for course Machine learning withar python.Modules for will be:-
+This repository contains quizzes and assignment for course Machine learning with Big data.Modules for will be:-
 
- - Week 1:-What is machine learning? 
+ - Week 1:-Machine learning with Big data
 
-   1)Introduction to Machine Learning
+   1)Introduction to Machine Learning with Big data 
 
-   2)Python for Machine learning 
+   2)Machine learning overview with applications 
 
-   3)Supervised vs Unsupervised 
+   3)Machine learning process
 
    4)Quiz
 
- - Week 2:-Regression 
+ - Week 2:-
 
-   1)Simple linear regression
+   1)Data Exploration 
 
-   2)Model evaluation in Regression 
-
-   3)Evaluation metrics in Regression Model 
-
-   4)Multiple linear regression
-
-   5)Non-Linear Regression
+   2)Data Preparation 
 
  - Week3 :-Classification 
 
@@ -29,39 +23,32 @@ This repository contains quizzes and assignment for course Machine learning with
 
    2)K-Nearest Neighbours 
 
-   3)Evaluation Metrics in Classification 
+   3)
 
-   4)Introduction to Decision Trees 
+   4)
 
-   5)Building Decision Tree 
+   5)
 
-   6)Logistic Regression vs Linear Regression
- 
-   7)Logistic Regression Training 
-
-   8)SVM
+   6)
 
    9)Quiz
 
- - Week 4 :-Clustering
+ - Week 4 :-Evaluation of ML Models 
 
-   1)Introduction to clustering 
+   1)Overfitting 
 
-   2)Introduction to K-Means 
+   2)Model evaluation metrics and methods 
 
-   3)Introduction to Hierarchical clustering 
+   3)
 
    4)Quiz
 
- - Week 5 :-Recommendation Engines 
+ - Week 5 :-
 
-   1)Content baseductive Recommendation Engines 
+   1)Regression 
 
-   2)Introduction to Recommender System 
+   2)Cluster Analysis 
+   
+   3)Association analysis 
 
    3)Quiz
-
- - Peer Graded assignment :-
-
-This repository contains peer graded assignment.
-   
