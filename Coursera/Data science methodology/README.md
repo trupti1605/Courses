@@ -6,12 +6,12 @@ In this repositorycontains quizzes,notes and assignment for course Data science 
 - Week 1 :-
 
           - From Problem to Approach
-          - Business Understanding 
-          - Analytical Aaproach 
-
+               - Business Understanding 
+               - Analytical Aaproach 
+ 
           - From Requirements to Collection 
-          - Data Requirements 
-          - Data Collection
+               - Data Requirements 
+               - Data Collection
 
 - Week 2 :-
 
