@@ -3,25 +3,25 @@ This repository contains quizzes and assignment for course Machine learning with
 
  - Week 1:-Machine learning with Big data
 
-   1)Introduction to Machine Learning with Big data 
+   1) Introduction to Machine Learning with Big data 
 
-   2)Machine learning overview with applications 
+   2) Machine learning overview with applications 
 
-   3)Machine learning process
+   3) Machine learning process
 
-   4)Quiz
+   4) Quiz
 
  - Week 2:-
 
-   1)Data Exploration 
+   1) Data Exploration 
 
-   2)Data Preparation 
+   2) Data Preparation 
 
  - Week3 :-Classification 
 
-   1)Introduction to classification 
+   1) Introduction to classification 
 
-   2)K-Nearest Neighbours 
+   2) K-Nearest Neighbours 
 
    3)
 
@@ -31,24 +31,24 @@ This repository contains quizzes and assignment for course Machine learning with
 
    6)
 
-   9)Quiz
+   9) Quiz
 
  - Week 4 :-Evaluation of ML Models 
 
-   1)Overfitting 
+   1) Overfitting 
 
-   2)Model evaluation metrics and methods 
+   2) Model evaluation metrics and methods 
 
    3)
 
-   4)Quiz
+   4) Quiz
 
  - Week 5 :-
 
-   1)Regression 
+   1) Regression 
 
-   2)Cluster Analysis 
+   2) Cluster Analysis 
    
-   3)Association analysis 
+   3) Association analysis 
 
-   3)Quiz
+   3) Quiz
